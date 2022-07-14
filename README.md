@@ -44,10 +44,11 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 
 
 ### Scores by School Type
-- Based of the figure , the overall passing percentage for school type decreased, but it was less than 1 percent.
+- Based of the figure 6, the overall passing percentage for school type decreased, but it was less than 1 percent.
 
 **Figure 6:**
 
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/Scores_by_School_Type.png)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Summary 
