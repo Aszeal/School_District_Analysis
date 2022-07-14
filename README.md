@@ -20,7 +20,7 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ## How does replacing the ninth-grade scores affect the following when compared to other schools?
-### Math and reading scores by grade
+### Math and Reading Scores by Grade
 - In this case, as a result of the score being removed, the ninth grade scores will be in last place. Or it cannot be commpared because the scores are removed. Either way the ninth grade scores of reading and math would be at the bottom of the rankings.
 
 **Figure 3:**
