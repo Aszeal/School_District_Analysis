@@ -8,15 +8,15 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/District%20Analysis-Orginal.png)
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/District%20Analysis-Redo.png)
 
-# How is the school summary affected?
+### How is the school summary affected?
 ![School District Analysis]()
 ![School District Analysis]()
 
-# How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ![School District Analysis]()
 ![School District Analysis]()
 
-# How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 ![School District Analysis]()
 ![School District Analysis]()
