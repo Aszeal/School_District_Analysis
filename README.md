@@ -13,24 +13,23 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/School_Summary-Orginal.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-![School District Analysis]()
-![School District Analysis]()
+![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/Math_and_Reading_scores.png)
+![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/NaN_Grades.png)
 
 ### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
-![School District Analysis]()
-![School District Analysis]()
+![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/Math_and_Reading_scores.png)
+
 
 Scores by school spending
-![School District Analysis]()
-![School District Analysis]()
+![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/spending_per_school.png)
+
 
 Scores by school size
-![School District Analysis]()
-![School District Analysis]()
+![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/Scores_by_Size.png)
+
 
 Scores by school type
-![School District Analysis]()
-![School District Analysis]()
+![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/Scores_by_School_Type.png)
 
 ## Summary 
