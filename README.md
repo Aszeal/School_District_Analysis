@@ -18,7 +18,7 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 
 ### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
-![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/Math_and_Reading_scores.png)
+
 
 
 Scores by school spending
