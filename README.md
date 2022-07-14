@@ -28,7 +28,7 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 ![District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/Math_and_Reading_scores1.png)
 
 ### Scores by School Spending
-- With the ninth grade scores gone, its effect was not great enough to change the school spending position. It is still well positioned in it's category.
+- With the ninth grade scores gone, its affect was not great enough to change the school spending position. It is still well positioned in it's category.
 
 **Figure 4:**
 
@@ -36,7 +36,7 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 
 
 ### Scores by School Size
-- The overall school size ranking was not effected enought to change its position from *"medium"* to *"small"*.
+- The overall school size ranking was not affected enough to change its position from *"medium"* to *"small"*.
 
 **Figure 5:**
 
