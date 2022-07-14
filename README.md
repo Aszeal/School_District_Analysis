@@ -1,3 +1,4 @@
 # School District Analysis
 
- ## Overview of the school district analysis
+ ## Overview of the School District Analysis
+As a result of perceived academic dishonesty, specifically within **Thomas High School: 9th grade(Reading and Math scores)**, Maria assigned me the task of altering the data so that the information for the standardized testing is correct. 
