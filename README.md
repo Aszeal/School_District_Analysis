@@ -5,33 +5,25 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 
 #  Results
 ## How is the district summary affected?
-- As seen below in figure 1, the the district preformed well with the higher reading and math scores,specifically, the *ninth grade scores*.
+- As seen below in figure 1, the district's performance fell. It's overall passing percentage decreased by less than one percent. 
 
 **Figure 1: District Summary**
-![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/District%20Analysis-Orginal.png)
-
-
-
-- As seen below in figure 2, as result of the ninth grade reading and math scores being removed, the overall district scores **decreased**. The overall score for the district decreased by less than a one percent. 
-
-
- **Figure 2: District Summary**
- ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/District%20Analysis-Redo.png)
+![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/District%20Analysis-Redo.png)
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ## How is the school summary affected?
-- Referencing the figure 3 we can see the ninth grade scores included, the school's summary was preforming better at **90.94**.
+- Referencing the figure 2, we can see the ninth grade scores included, the school's summary was preforming better at **90.94**.
 
-**Figure 3: School Summary**
+**Figure 2: School Summary**
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/School_Summary-Orginal1.png)
 
-- As seen below in figure 4, once the scores are removed the overall result is decrased to **90.63**.
+- As seen below in figure 3, once the scores are removed the overall result is decrased to **90.63**.
 
-**Figure 4: School Summary**
+**Figure 3: School Summary**
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/School_Summary-Orginal.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-## How does replacing the ninth-grade scores affect the following:
+## How does replacing the ninth-grade scores affect the following when compared to other schools?
 Math and reading scores by grade
 - In this case, as a result of the score being removed, the ninth grade scores will be in last place. Or it cannot be commpared because the scores are removed. Either way the ninth grade scores of reading and math would be at the bottom of the rankings.
 
