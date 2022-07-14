@@ -5,13 +5,14 @@ As a result of perceived academic dishonesty, specifically within **Thomas High 
 
 ##  Results
 # How is the district summary affected?
-
+- As seen below, the the district preformed well with the higher reading and math scores,specifically, the *ninth grade scores*.
+**Figure: District Summary:1**
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/District%20Analysis-Orginal.png)
 
 
 
-
-
+- As seen below, as result of the ninth grade reading and math scores being removed, the overall district scores **decreased**. The overall score for the district decreased by less than a one percent. 
+**Figure: District Summary: 2**
 ![School District Analysis](https://github.com/Aszeal/School_District_Analysis/blob/main/Resources/District%20Analysis-Redo.png)
 
 ### How is the school summary affected?
